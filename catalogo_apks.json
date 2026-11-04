@@ -1,0 +1,64 @@
+{
+  "apps": [
+    {
+      "id": "medintv",
+      "nombre": "MedinTV",
+      "paquete": "",
+      "version": "1.0",
+      "versionCode": 1,
+      "categoria": "TV en Vivo",
+      "peso": "18 MB",
+      "descripcion": "Reproductor principal conectado a tus listas.",
+      "icono": "",
+      "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/MedinTV.apk"
+    },
+    {
+      "id": "xuper",
+      "nombre": "Xuper",
+      "paquete": "",
+      "version": "2.4",
+      "versionCode": 24,
+      "categoria": "Streaming",
+      "peso": "42 MB",
+      "descripcion": "Entretenimiento optimizado para control remoto.",
+      "icono": "",
+      "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/v1.0/Xuper.apk"
+    },
+    {
+      "id": "wiwi",
+      "nombre": "Wiwi",
+      "paquete": "",
+      "version": "1.2",
+      "versionCode": 12,
+      "categoria": "Streaming",
+      "peso": "35 MB",
+      "descripcion": "Versión estable y ligera para TV Box.",
+      "icono": "",
+      "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/WiwyXuper.apk"
+    },
+    {
+      "id": "magma",
+      "nombre": "Magma",
+      "paquete": "",
+      "version": "3.1",
+      "versionCode": 31,
+      "categoria": "TV & Películas",
+      "peso": "50 MB",
+      "descripcion": "Catálogo multimedia actualizado.",
+      "icono": "",
+      "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/v1.0/Magma.apk"
+    },
+    {
+      "id": "lts",
+      "nombre": "LTS",
+      "paquete": "",
+      "version": "1.5",
+      "versionCode": 15,
+      "categoria": "Utilidades",
+      "peso": "28 MB",
+      "descripcion": "Edición estable de soporte extendido.",
+      "icono": "",
+      "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/v1.0/LTS.apk"
+    }
+  ]
+    }
