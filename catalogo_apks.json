@@ -9,7 +9,7 @@
       "categoria": "TV en Vivo",
       "peso": "18 MB",
       "descripcion": "Reproductor principal conectado a tus listas.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/Medintv.png",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/MedinTV.apk"
     },
         {
@@ -21,7 +21,7 @@
       "categoria": "explorardor de archivos",
       "peso": "18 MB",
       "descripcion": "Reproductor principal conectado a tus listas.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/CxFileExplorer.jpeg",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/CxFileExplorer.apk"
     },
     {
@@ -33,7 +33,7 @@
       "categoria": "Streaming",
       "peso": "38 MB",
       "descripcion": "Entretenimiento optimizado para control remoto.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.jpeg",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.apk"
     },
     {
@@ -45,7 +45,7 @@
       "categoria": "Streaming",
       "peso": "35 MB",
       "descripcion": "Versión estable y ligera para TV Box.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/WiwyXuper.jpg",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/WiwyXuper.apk"
     },
     {
@@ -57,7 +57,7 @@
       "categoria": "TV & Películas",
       "peso": "30 MB",
       "descripcion": "Catálogo multimedia actualizado.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/Magma.png",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/Magma.apk"
     },
     {
@@ -69,7 +69,7 @@
       "categoria": "Utilidades",
       "peso": "32 MB",
       "descripcion": "Edición estable de soporte extendido.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/LTS.jpeg",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/LTS.apk"
     },
     {
@@ -81,7 +81,7 @@
       "categoria": "Streaming",
       "peso": "58MB",
       "descripcion": "Entretenimiento optimizado para control remoto.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/Movieplus.png",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/MoviePlus.apk"
     },
     {
@@ -93,7 +93,7 @@
       "categoria": "Streaming",
       "peso": "50 MB",
       "descripcion": "Versión estable y ligera para TV Box.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/PlayerPro.jpeg",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/PlayerPro.apk"
     },
     {
@@ -105,7 +105,7 @@
       "categoria": "TV & Películas",
       "peso": "9 MB",
       "descripcion": "Enviar archivos.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/SendFiles.jpeg",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/SendFiles.apk"
     },
     {
@@ -117,7 +117,7 @@
       "categoria": "Deportes",
       "peso": "34 MB",
       "descripcion": "streaming de deportes.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/FCTV33.jpg",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/FCTV33.apk"
     },
     {
@@ -129,7 +129,7 @@
       "categoria": "Utilidades",
       "peso": "85 MB",
       "descripcion": "Archivos en la nube.",
-      "icono": "",
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/Terabox.png",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/Terabox.apk"
     }
   ]
