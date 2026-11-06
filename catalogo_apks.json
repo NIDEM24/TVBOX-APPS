@@ -71,7 +71,7 @@
       "paquete": "",
       "version": "1.0",
       "versionCode": 1,
-      "visible": true,
+      "visible": false,
       "categoria": "TV en Vivo",
       "peso": "18 MB",
       "descripcion": "Reproductor principal conectado a tus listas.",
@@ -131,8 +131,8 @@
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/Terabox.apk"
     },
     {
-      "id": "wiwi",
-      "nombre": "Wiwi",
+      "id": "wiwy",
+      "nombre": "Wiwy",
       "paquete": "",
       "version": "1.2",
       "versionCode": 1,
