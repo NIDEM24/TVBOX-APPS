@@ -96,13 +96,13 @@
       "nombre": "NewApps",
       "paquete": "",
       "version": "1",
-      "versionCode": 1,
+      "versionCode": 1.1,
       "visible": true,
       "categoria": "TV & Películas",
       "peso": "30 MB",
       "descripcion": "Catálogo multimedia actualizado.",
-      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/NewApps.apk",
-      "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/NewApps.jpg"
+      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/NewApps.jpg",
+      "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/NewApps.apk"
     },
     {
       "id": "PlayerPro",
