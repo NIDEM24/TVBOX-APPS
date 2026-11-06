@@ -6,6 +6,7 @@
       "paquete": "",
       "version": "1.0",
       "versionCode": 1,
+      "visible": false,
       "categoria": "TV en Vivo",
       "peso": "18 MB",
       "descripcion": "Reproductor principal conectado a tus listas.",
