@@ -27,15 +27,15 @@
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/FCTV33.apk"
     },
     {
-  "id": "HaydraXuper",
-  "nombre": "HaydraXuper",
+  "id": "Xuper Haydra",
+  "nombre": "Xuper Haydra",
   "paquete": "com.xuper.netxus",
   "version": "4.34.4",
   "versionCode": 1,
   "visible": true,
   "categoria": "Streaming",
-  "peso": "38 MB",
-  "descripcion": "Entretenimiento optimizado para control remoto.",
+  "peso": "35,96 MB",
+  "descripcion": "Televisión, películas y series.",
   "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.jpeg",
   "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.apk"
 },
@@ -144,8 +144,8 @@
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/Terabox.apk"
     },
     {
-      "id": "wiwi",
-      "nombre": "Wiwi",
+      "id": "wiwy",
+      "nombre": "Wiwy",
       "paquete": "",
       "version": "1.2",
       "versionCode": 1,
