@@ -27,18 +27,18 @@
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/FCTV33.apk"
     },
     {
-      "id": "HaydraXuper",
-      "nombre": "HaydraXuper",
-      "paquete": "",
-      "version": "2.4",
-      "versionCode": 1,
-      "visible": true,
-      "categoria": "Streaming",
-      "peso": "38 MB",
-      "descripcion": "Entretenimiento optimizado para control remoto.",
-      "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.jpeg",
-      "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.apk"
-    },
+  "id": "HaydraXuper",
+  "nombre": "HaydraXuper",
+  "paquete": "com.xuper.netxus",
+  "version": "4.34.4",
+  "versionCode": 1,
+  "visible": true,
+  "categoria": "Streaming",
+  "peso": "38 MB",
+  "descripcion": "Entretenimiento optimizado para control remoto.",
+  "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.jpeg",
+  "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.apk"
+},
     {
       "id": "lts",
       "nombre": "LTS",
