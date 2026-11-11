@@ -16,12 +16,12 @@
     {
       "id": "FCTV33",
       "nombre": "FCTV33",
-      "paquete": "",
-      "version": "1.5",
-      "versionCode": 1,
+      "paquete": "com.fctv77.tv",
+      "version": "3.0.323",
+      "versionCode": 1.2,
       "visible": true,
       "categoria": "Deportes",
-      "peso": "34 MB",
+      "peso": "83.34 MB",
       "descripcion": "Transmisión y eventos deportivos en vivo.",
       "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/FCTV33.jpg",
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/FCTV33.apk"
