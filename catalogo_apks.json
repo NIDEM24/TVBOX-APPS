@@ -53,11 +53,11 @@
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/LTS.apk"
     },
     {
-      "id": "magma",
-      "nombre": "Magma",
-      "paquete": "",
-      "version": "3.1",
-      "versionCode": 1,
+      "id": "Magma pro+",
+      "nombre": "Magma pro+",
+      "paquete": "com.magmaplayer.ANDROIDPERUANO",
+      "version": "1.0.11",
+      "versionCode": 1.,
       "visible": true,
       "categoria": "TV y eventos deportivos",
       "peso": "30 MB",
