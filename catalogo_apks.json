@@ -14,11 +14,11 @@
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/CxFileExplorer.apk"
     },
     {
-      "id": "FCTV33",
-      "nombre": "FCTV33",
+      "id": "FCTV33(TV)",
+      "nombre": "FCTV33(TV)",
       "paquete": "com.fctv77.tv",
       "version": "3.0.323",
-      "versionCode": 1.2,
+      "versionCode": 2,
       "visible": true,
       "categoria": "Eventos deportivos",
       "peso": "83.34 MB",
