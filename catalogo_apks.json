@@ -57,7 +57,7 @@
       "nombre": "Magma pro+",
       "paquete": "com.magmaplayer.ANDROIDPERUANO",
       "version": "1.0.11",
-      "versionCode": 1.,
+      "versionCode": 1.
       "visible": true,
       "categoria": "TV y eventos deportivos",
       "peso": "30 MB",
@@ -81,7 +81,7 @@
     {
       "id": "MoviePlus",
       "nombre": "MoviePlus",
-      "paquete": "17.4",
+      "paquete": "com.dvex.movp",
       "version": "17.4",
       "versionCode": 2,
       "visible": true,
