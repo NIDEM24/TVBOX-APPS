@@ -149,7 +149,7 @@
       "paquete": "",
       "version": "1.2",
       "versionCode": 1,
-      "visible": true,
+      "visible": false,
       "categoria": "TV, películas, series, kids y anime",
       "peso": "35 MB",
       "descripcion": "Versión estable y ligera para TV Box.",
