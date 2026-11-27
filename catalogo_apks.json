@@ -27,17 +27,17 @@
       "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/FCTV33.TV.apk"
     },
     {
-  "id": "Xuper Haydra",
-  "nombre": "Xuper Haydra",
+  "id": "Xuper Nuevo",
+  "nombre": "XuperN",
   "paquete": "com.xuper.netxus",
-  "version": "4.34.4",
-  "versionCode": 1,
+  "version": "5.20",
+  "versionCode": 2,
   "visible": true,
   "categoria": "TV, películas, series, kids y anime",
-  "peso": "35,96 MB",
+  "peso": "78.13 MB",
   "descripcion": "Televisión, películas y series.",
   "icono": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.jpeg",
-  "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/HaydraXuper.apk"
+  "apkUrl": "https://github.com/NIDEM24/TVBOX-APPS/releases/download/V1.0/XuperN.apk"
 },
     {
       "id": "lts",
